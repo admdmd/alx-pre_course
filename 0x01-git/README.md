@@ -1,1 +1,1 @@
-s_readme
+s.readme
